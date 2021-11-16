@@ -1,7 +1,7 @@
 const nameGirl = 'Trang';
 const giftUrl = 'http://nodemy.vn';
 const eventName = 'Chúc Mừng 20-11';
-const titleCard = 'Gửi tặng crush <3';
+const titleCard = 'Gửi tới Trang';
 const contentCard = 'Chúc cô giáo Trang 20/11 tràn ngập niềm vui và những nụ cười, sớm có những đứa học trò cute, ngoan ngoãn. Mong điều đẹp nhất sẽ đến với bạn trong hôm nay và cả những ngày sau';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
