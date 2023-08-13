@@ -1,8 +1,8 @@
-const nameGirl = 'Trang';
-const giftUrl = 'https://m.me/quyvuongnamsama/';
-const eventName = 'Chúc Mừng 20-11';
-const titleCard = 'Gửi tới Trang <3';
-const contentCard = 'Chúc cô giáo Trang 20/11 tràn ngập niềm vui và những nụ cười, sớm có những đứa học trò cute, ngoan ngoãn. Mong điều đẹp nhất sẽ đến với bạn trong hôm nay và cả những ngày sau';
+const nameGirl = 'Cúcki';
+const giftUrl = 'https://m.me/nam162002/';
+const eventName = 'Chúc Mừng Sinh Nhật 15-8';
+const titleCard = 'Gửi tới Thanh An <3';
+const contentCard = 'Chúc pé Thanh An có 1 ngày sinh nhật tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với pé trong hôm nay và cả những ngày sau';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
