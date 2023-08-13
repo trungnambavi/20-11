@@ -1,6 +1,6 @@
 const nameGirl = 'Cúcki';
 const giftUrl = 'https://m.me/nam162002/';
-const eventName = 'Chúc Mừng Sinh Nhật 15-8';
+const eventName = 'Chúc Mừng Sinh Nhật';
 const titleCard = 'Gửi tới Thanh An <3';
 const contentCard = 'Chúc pé Thanh An có 1 ngày sinh nhật tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với pé trong hôm nay và cả những ngày sau';
 
